@@ -1,3 +1,4 @@
+IntelliRover X 🚀
 An ESP32-based intelligent navigation rover designed for smart movement, obstacle detection, and embedded automation.
 
 🔧 Components Used
